@@ -1,12 +1,1 @@
-suka
-da
-da
-da
-da
-da
-fuck
-<<<<<<< HEAD
-suck
-=======
-chmo
->>>>>>> master
+hello
